@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was developed as part of a **first-year, first-semester assignment** under the **Networking and Cybersecurity** module at the **Asia Pacific Institute of Information Technology (APIIT), Sri Lanka**, partnered with **Staffordshire University, UK**. The primary objective of this assignment was to design and implement a comprehensive network infrastructure for **Campus ABC**, which consists of three locations: the **Main Campus (HQ)**, the **Research and Development Centre**, and the **Kandy Branch**. This network solution incorporates **VLANs**, **routing**, **security**, and **WAN** technologies to facilitate efficient communication, collaboration, and secure data transfer across the campus sites.
+This project was developed as part of a **first-year, first-semester assignment** under the **COMP40002 Networking Concepts and Cybersecurity** module at the **Asia Pacific Institute of Information Technology (APIIT), Sri Lanka**, partnered with **Staffordshire University, UK**. The primary objective of this assignment was to design and implement a comprehensive network infrastructure for **Campus ABC**, which consists of three locations: the **Main Campus (HQ)**, the **Research and Development Centre**, and the **Kandy Branch**. This network solution incorporates **VLANs**, **routing**, **security**, and **WAN** technologies to facilitate efficient communication, collaboration, and secure data transfer across the campus sites.
 
 ## Learning Outcomes
 
